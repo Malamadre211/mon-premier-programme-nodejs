@@ -1,0 +1,25 @@
+GET http://localhost:3000/ 
+
+###
+GET http://localhost:3000/toto
+
+###
+GET http://localhost:3000/date
+
+###
+GET http://localhost:3000/thomas
+
+###
+GET http://localhost:3000/file
+
+###
+GET http://localhost:3000/random
+
+###
+GET http://localhost:3000/between/1/10
+
+###
+GET http://localhost:3000/static/mon-premier-programme-nodejs/static/images/simplon.jpg
+
+# ###
+# GET http://localhost:3000/static/src/simplon.html
